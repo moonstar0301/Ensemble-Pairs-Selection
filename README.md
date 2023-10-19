@@ -1,23 +1,56 @@
 
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0019](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/1b49bfd9-efcf-4c73-9c95-743f140edd0a)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0018](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/4d347758-f2e4-441d-b684-99b22bfc0b55)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0014](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/bc3afe48-d803-4d86-b776-441d59e4c533)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0022](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/83a0e87f-f5b5-44e2-ac6e-164f5c3b0b6b)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0021](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/ba84d74a-9214-47aa-abb9-d2ae1c835aeb)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0020](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/92f51577-f0db-48cc-b00b-1093f15da028)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0017](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/44403667-108a-434d-b99f-45093a763088)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0016](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/8bf88f32-465f-49bf-a172-6b6680e4a7fa)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0015](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/92455ca8-1cab-40f9-a09f-f95cf13e46a1)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0013](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/1aff524a-8c6d-400c-913e-93c044c5b20b)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0012](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/f8c1406c-e024-4d21-acab-9fa568ba47f3)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0011](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/18538915-f244-4634-9eaa-42ef7b9c9f1d)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0010](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/bbe057cb-b9e1-49ee-a382-55507aa70a2c)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0009](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/dca55c5e-7653-4e8b-b8cf-71a2f13c5ab9)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0008](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/daf7c80a-34bd-4fbc-95fb-093786fd16c7)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0007](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/35ef8a2d-b124-4ad6-8dab-eb3bc4eed92e)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0006](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/0a0607f9-948a-4098-bae8-a6cda36e6065)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0005](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/c9af0e66-1aa3-493d-99cd-4cc5d1977c90)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0004](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/d74bde71-556d-447e-967a-0da5dbb90e9c)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0003](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/e0e9c5ee-35f3-487e-b50d-c06ea927a229)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0002](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/59d2a61d-7fed-4b06-b595-4077feb2f2a7)
-![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0001](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/1bae022d-af2b-4d3d-9142-1cd9803b7e42)
+# 2023 하반기 다트 논문스터디 - 페어트레이딩
+
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0001](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/e3b99831-9650-4d6e-babd-978df0978f95)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0002](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/bfc27037-fbfe-49e7-b6fc-9010483d375e)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0003](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/af45313f-06b5-4ed7-9da2-c63cf01e52e4)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0004](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/7cc14e3d-1e33-40b9-a343-5643e23d3498)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0005](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/56d6355b-e67b-45ae-a832-5843cb5a4dc8)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0006](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/f9891c44-8670-46fb-9560-3c5c35e4cbda)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0007](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/37f2666b-69f9-4a41-9f49-e892635c0486)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0008](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/b17ec42d-7337-4feb-8334-f2208cc3a8b8)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0009](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/6df6ece1-a6e2-44e4-85e4-681c8b8ce605)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0010](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/9a4bb91d-5e83-4925-bff6-7e4bda234a49)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0011](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/f82bf951-1feb-410f-848f-4566f638a98c)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0012](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/7e9c921f-75e3-45b3-a80a-d53ba68ad1e2)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0013](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/7987b735-54a0-4bcd-b8c3-3d3429f7389f)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0014](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/75f6c47c-ff46-4c19-802b-d3a532ab4fc2)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0015](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/05df705a-eebd-4ca1-bf22-efbce1d01eed)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0016](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/8c6dec96-4430-41b0-9033-c3a904bc2595)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0017](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/9dcf9974-9d30-4fd8-9f53-fb6e51341b6c)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0018](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/e4373e01-35ee-4172-91b6-3e7153e741fe)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0019](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/9a2d8f66-b78c-46e8-abe1-5abdb1c0db62)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0020](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/762247b7-6ea8-4e20-bfa1-206c4b38cfba)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0021](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/4099f1b1-645f-4044-b3cc-037921b73680)
+![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0022](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/d777b741-d57d-4bef-9bc2-41985e74e8d0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
