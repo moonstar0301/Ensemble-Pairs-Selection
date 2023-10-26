@@ -1,5 +1,5 @@
 
-# 2023 하반기 다트 논문스터디 - 페어트레이딩
+# KNU DART PROJECT
 
 ![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0001](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/e3b99831-9650-4d6e-babd-978df0978f95)
 ![군집화 기반 앙상블 페어 선택 알고리즘 실증분석_page-0002](https://github.com/moonstar0301/PairsTrading_PaperReadingGroup/assets/112082163/bfc27037-fbfe-49e7-b6fc-9010483d375e)
